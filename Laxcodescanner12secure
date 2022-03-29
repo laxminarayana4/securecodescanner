@@ -1,0 +1,8 @@
+int a,b,c,d,e;
+a=Integer.parseInt(jTextField1.getText());
+b=Integer.parseInt(jTextField2.getText());
+c=Integer.parseInt(jTextField3.getText());
+d=Integer.parseInt(jTextField4.getText());
+e=Integer.parseInt(jTextFIeld5.getText());
+if(
+
